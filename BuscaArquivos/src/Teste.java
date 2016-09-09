@@ -1,8 +1,9 @@
 public class Teste {
     
-    public void exemploAlunos(){
+    public void calcularMedia(){
     }
     
-    public void calcularMedia(){
+    public void salario(){
+        //TODO
     }
 }
